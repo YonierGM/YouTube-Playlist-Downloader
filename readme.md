@@ -93,7 +93,7 @@ PORT=4000
 ### Backend
 
 ```bash
-cd backend
+cd youtube-playlist-backend
 npm install
 node server.js
 ```
@@ -109,7 +109,7 @@ http://localhost:4000
 ### Frontend
 
 ```bash
-cd frontend
+cd youtube-playlist-frontend
 npm install
 npm run dev
 ```
