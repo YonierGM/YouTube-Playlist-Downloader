@@ -31,23 +31,6 @@ Incluye:
 
 ---
 
-## 📂 Estructura del proyecto
-
-```
-
-/
-├── backend/
-│   ├── server.js
-│   ├── downloads/        # Ignorada por git
-│   └── .env              # Ignorada por git
-│
-├── frontend/
-│   ├── src/
-│   └── package.json
-│
-├── .gitignore
-└── README.md
-
 ```
 
 ---
